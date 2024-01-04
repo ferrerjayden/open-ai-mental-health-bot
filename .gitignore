@@ -1,0 +1,6 @@
+node_modules/
+*.env
+tsconfig.json
+.zshrc
+.DS_store
+# tsconfig
